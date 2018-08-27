@@ -15,4 +15,4 @@ Ranger is a great terminal file manager and I prefer to use it over any gui file
 ### Conclusion
 So why do I use all of these terminal applications and why do I even use i3 in the first place? Well the answer to that is, it is fun! There is just so much stuff you can do and there is a lot more freedom. i3 is also just a great alternative to a DE because of how convienient it is.
 
-### More: \[[Installing Dotfiles](https://www.youtube.com/watch?v=c5RZWDLqifA)\] \[[Getting Started](https://www.youtube.com/watch?v=__0Dquj7y9g)\] \[[Screenshots](https://imgur.com/a/sfl08rJ)\]
+### More: \[[Installing Dotfiles](https://www.youtube.com/watch?v=c5RZWDLqifA)\] \[[Getting Started](https://www.youtube.com/watch?v=__0Dquj7y9g)\] \[[Wallpapers](https://imgur.com/a/sfl08rJ)\]
