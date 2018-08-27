@@ -1,0 +1,276 @@
+Aug 24 13:38 : exception: Failed to open /home/jacob/.config/mpd/state: No such file or directory
+Aug 24 13:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 13:38 : update: added /Beastie Boys - Sabotage.mp3
+Aug 24 13:38 : update: added /Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3
+Aug 24 13:38 : update: added /Beastie Boys - Intergalactic (High Quality).mp3
+Aug 24 13:38 : update: added /ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3
+Aug 24 13:38 : avahi: Service 'Music Player' successfully established.
+Aug 24 13:38 : client: [0] opened from [::1]:57254
+Aug 24 13:38 : client: [0] closed
+Aug 24 13:38 : client: [1] opened from [::1]:57256
+Aug 24 13:41 : client: [2] opened from [::1]:57268
+Aug 24 13:41 : client: [2] closed
+Aug 24 13:41 : client: [1] closed
+Aug 24 13:42 : client: [3] opened from [::1]:57272
+Aug 24 13:42 : client: [3] closed
+Aug 24 13:43 : client: [4] opened from [::1]:57274
+Aug 24 13:43 : client: [4] closed
+Aug 24 13:44 : client: [5] opened from [::1]:57276
+Aug 24 13:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 13:44 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 24 13:48 : client: [5] closed
+Aug 24 13:48 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 24 13:48 : client: [6] opened from [::1]:57290
+Aug 24 13:48 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 24 13:49 : client: [6] closed
+Aug 24 13:49 : client: [7] opened from [::1]:57292
+Aug 24 13:49 : player: played "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3"
+Aug 24 13:50 : client: [7] closed
+Aug 24 13:50 : client: [8] opened from [::1]:57294
+Aug 24 13:55 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 24 14:01 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 24 14:04 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 24 14:05 : update: added /Khalid - Location.mp3
+Aug 24 14:05 : update: added /LAUV - The Other.mp3
+Aug 24 14:05 : update: added /swell - im sorry (feat. shiloh).mp3
+Aug 24 14:05 : update: added /Milky Chance - Stolen Dance (Album Version).mp3
+Aug 24 14:05 : update: added /Flume - Never Be Like You feat. Kai.mp3
+Aug 24 14:05 : update: added /Blackbear - Idfc (Tarro Remix).mp3
+Aug 24 14:05 : update: added /PETIT BISCUIT - Sunset Lover.mp3
+Aug 24 14:05 : update: added /Vanic X K.Flay - Cant Sleep.mp3
+Aug 24 14:05 : update: added /Duke Dumont - I Got U ft. Jax Jones.mp3
+Aug 24 14:05 : update: added /Aaron Smith - Dancin (KRONO Remix).mp3
+Aug 24 14:05 : update: added /Tove Lo - Stay High (Habits Remix) ft. Hippie Sabotage.mp3
+Aug 24 14:05 : update: added /Childish Gambino - Redbone (Official Audio).mp3
+Aug 24 14:05 : update: added /Coldplay - Midnight (Kygo Remix).mp3
+Aug 24 14:05 : update: added /Nujabes - Feather.mp3
+Aug 24 14:05 : update: added /Mansionair - Hold Me Down ft. Revier.mp3
+Aug 24 14:05 : update: added /Slow Magic - Waited 4 U (ODESZA Remix).mp3
+Aug 24 14:05 : update: added /alt-J () Breezeblocks.mp3
+Aug 24 14:05 : update: added /Yuna - Lullabies (Adventure Club Remix).mp3
+Aug 24 14:05 : update: added /RUDE - Eternal Youth.mp3
+Aug 24 15:14 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 24 15:17 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 24 15:53 : player: played "Coldplay - Midnight (Kygo Remix).mp3"
+Aug 24 16:31 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 24 17:46 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 24 18:21 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 24 18:27 : player: played "Coldplay - Midnight (Kygo Remix).mp3"
+Aug 24 21:31 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 24 21:32 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 24 21:47 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 24 23:08 : client: [9] opened from [::1]:59118
+Aug 25 10:08 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 25 10:09 : player: played "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3"
+Aug 25 10:09 : client: [9] closed
+Aug 25 11:05 : client: [8] closed
+Aug 25 11:05 : client: [10] opened from [::1]:59462
+Aug 25 11:05 : player: played "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3"
+Aug 25 11:15 : client: [11] opened from [::1]:59524
+Aug 25 11:17 : client: [11] closed
+Aug 25 11:21 : client: [12] opened from [::1]:59532
+Aug 25 11:25 : player: played "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3"
+Aug 25 11:26 : client: [12] closed
+Aug 25 11:43 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 25 11:43 : player: played "swell - im sorry (feat. shiloh).mp3"
+Aug 25 11:46 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 25 11:47 : client: [13] opened from [::1]:59666
+Aug 25 11:47 : client: [13] closed
+Aug 25 13:37 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 25 13:37 : player: played "swell - im sorry (feat. shiloh).mp3"
+Aug 25 14:29 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 25 14:31 : player: played "swell - im sorry (feat. shiloh).mp3"
+Aug 25 14:39 : player: played "Slow Magic - Waited 4 U (ODESZA Remix).mp3"
+Aug 25 14:39 : update: added /Benny Benassi - Satisfaction.mp3
+Aug 25 14:39 : update: added /Bellbottoms.mp3
+Aug 25 14:39 : update: added /Pink Floyd - Wish You Were Here.mp3
+Aug 25 14:44 : player: played "Pink Floyd - Wish You Were Here.mp3"
+Aug 25 14:49 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 25 14:52 : player: played "Benny Benassi - Satisfaction.mp3"
+Aug 25 15:05 : client: [14] opened from [::1]:32950
+Aug 25 15:05 : client: [14] closed
+Aug 25 15:05 : client: [15] opened from [::1]:32954
+Aug 25 15:05 : client: [15] closed
+Aug 25 15:06 : client: [16] opened from [::1]:32958
+Aug 25 15:16 : player: played "Bellbottoms.mp3"
+Aug 25 15:19 : player: played "Benny Benassi - Satisfaction.mp3"
+Aug 25 15:19 : client: [16] closed
+Aug 25 15:19 : client: [17] opened from [::1]:32980
+Aug 25 15:20 : client: [10] closed
+Aug 25 15:22 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 25 15:29 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 25 15:31 : client: [17] closed
+Aug 25 15:32 : client: [18] opened from [::1]:33040
+Aug 25 15:35 : client: [18] closed
+Aug 25 15:35 : client: [19] opened from [::1]:33042
+Aug 25 15:37 : player: played "Bellbottoms.mp3"
+Aug 25 15:39 : player: played "Benny Benassi - Satisfaction.mp3"
+Aug 25 15:45 : player: played "Coldplay - Midnight (Kygo Remix).mp3"
+Aug 25 15:49 : player: played "Duke Dumont - I Got U ft. Jax Jones.mp3"
+Aug 25 15:51 : player: played "Benny Benassi - Satisfaction.mp3"
+Aug 25 17:44 : client: [19] closed
+Aug 25 18:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 18:01 : avahi: Service 'Music Player' successfully established.
+Aug 25 18:22 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 25 18:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 18:24 : avahi: Service 'Music Player' successfully established.
+Aug 25 18:29 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 25 18:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 18:39 : avahi: Service 'Music Player' successfully established.
+Aug 25 19:12 : client: [0] opened from [::1]:46540
+Aug 25 19:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 19:47 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 25 19:54 : player: played "Yuna - Lullabies (Adventure Club Remix).mp3"
+Aug 25 19:58 : player: played "Tove Lo - Stay High (Habits Remix) ft. Hippie Sabotage.mp3"
+Aug 25 20:02 : player: played "Vanic X K.Flay - Cant Sleep.mp3"
+Aug 25 20:05 : player: played "swell - im sorry (feat. shiloh).mp3"
+Aug 25 20:09 : player: played "alt-J () Breezeblocks.mp3"
+Aug 25 20:13 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 25 20:19 : player: played "Bellbottoms.mp3"
+Aug 25 20:21 : player: played "Benny Benassi - Satisfaction.mp3"
+Aug 25 20:26 : player: played "Coldplay - Midnight (Kygo Remix).mp3"
+Aug 25 20:30 : player: played "Duke Dumont - I Got U ft. Jax Jones.mp3"
+Aug 25 20:34 : player: played "Flume - Never Be Like You feat. Kai.mp3"
+Aug 25 20:38 : player: played "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3"
+Aug 25 20:42 : player: played "Khalid - Location.mp3"
+Aug 25 20:45 : player: played "LAUV - The Other.mp3"
+Aug 25 20:50 : player: played "Milky Chance - Stolen Dance (Album Version).mp3"
+Aug 25 20:51 : player: played "Nujabes - Feather.mp3"
+Aug 25 20:51 : client: [0] closed
+Aug 25 21:13 : client: [1] opened from [::1]:47068
+Aug 25 21:16 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 25 22:48 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 25 23:02 : player: played "Bellbottoms.mp3"
+Aug 25 23:05 : player: played "Benny Benassi - Satisfaction.mp3"
+Aug 25 23:05 : player: played "Coldplay - Midnight (Kygo Remix).mp3"
+Aug 25 23:05 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 25 23:06 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 25 23:06 : player: played "Yuna - Lullabies (Adventure Club Remix).mp3"
+Aug 26 09:56 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 26 09:57 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 26 10:11 : player: played "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3"
+Aug 26 10:15 : player: played "Khalid - Location.mp3"
+Aug 26 10:15 : player: played "LAUV - The Other.mp3"
+Aug 26 10:20 : player: played "Bellbottoms.mp3"
+Aug 26 10:26 : player: played "Pink Floyd - Wish You Were Here.mp3"
+Aug 26 10:32 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 26 10:32 : client: [2] opened from [::1]:56046
+Aug 26 10:34 : client: [2] closed
+Aug 26 10:34 : client: [3] opened from [::1]:56052
+Aug 26 10:36 : client: [1] closed
+Aug 26 10:36 : client: [4] opened from [::1]:56056
+Aug 26 10:38 : player: played "Coldplay - Midnight (Kygo Remix).mp3"
+Aug 26 11:07 : client: [4] closed
+Aug 26 11:35 : player: played "Duke Dumont - I Got U ft. Jax Jones.mp3"
+Aug 26 11:39 : player: played "Flume - Never Be Like You feat. Kai.mp3"
+Aug 26 11:43 : player: played "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3"
+Aug 26 11:47 : player: played "Khalid - Location.mp3"
+Aug 26 11:50 : player: played "LAUV - The Other.mp3"
+Aug 26 11:55 : player: played "Milky Chance - Stolen Dance (Album Version).mp3"
+Aug 26 12:24 : client: [3] closed
+Aug 26 13:00 : client: [5] opened from [::1]:58314
+Aug 26 13:02 : client: [5] closed
+Aug 26 13:02 : client: [6] opened from [::1]:58316
+Aug 26 13:02 : client: [7] opened from [::1]:58318
+Aug 26 13:02 : client: [6] closed
+Aug 26 13:02 : client: [8] opened from [::1]:58320
+Aug 26 13:02 : client: [8] closed
+Aug 26 13:03 : client: [9] opened from [::1]:58322
+Aug 26 15:50 : player: played "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3"
+Aug 26 15:53 : player: played "Khalid - Location.mp3"
+Aug 26 15:57 : player: played "LAUV - The Other.mp3"
+Aug 26 16:02 : player: played "Milky Chance - Stolen Dance (Album Version).mp3"
+Aug 26 16:05 : player: played "Nujabes - Feather.mp3"
+Aug 26 16:09 : player: played "PETIT BISCUIT - Sunset Lover.mp3"
+Aug 26 16:59 : client: [7] closed
+Aug 26 16:59 : client: [9] closed
+Aug 26 17:03 : client: [10] opened from [::1]:59030
+Aug 26 17:04 : player: played "Pink Floyd - Wish You Were Here.mp3"
+Aug 26 17:05 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 26 17:10 : player: played "alt-J () Breezeblocks.mp3"
+Aug 26 17:14 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 26 17:19 : player: played "Bellbottoms.mp3"
+Aug 26 17:22 : player: played "Benny Benassi - Satisfaction.mp3"
+Aug 26 17:27 : player: played "Coldplay - Midnight (Kygo Remix).mp3"
+Aug 26 17:31 : player: played "Duke Dumont - I Got U ft. Jax Jones.mp3"
+Aug 26 17:35 : player: played "Flume - Never Be Like You feat. Kai.mp3"
+Aug 26 17:39 : player: played "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3"
+Aug 26 17:43 : player: played "Khalid - Location.mp3"
+Aug 26 17:46 : player: played "LAUV - The Other.mp3"
+Aug 26 17:51 : player: played "Milky Chance - Stolen Dance (Album Version).mp3"
+Aug 26 17:54 : player: played "Nujabes - Feather.mp3"
+Aug 26 17:58 : player: played "PETIT BISCUIT - Sunset Lover.mp3"
+Aug 26 18:03 : player: played "Pink Floyd - Wish You Were Here.mp3"
+Aug 26 18:07 : player: played "RUDE - Eternal Youth.mp3"
+Aug 26 18:11 : player: played "Slow Magic - Waited 4 U (ODESZA Remix).mp3"
+Aug 26 18:14 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 26 18:35 : client: [10] closed
+Aug 26 18:36 : client: [11] opened from [::1]:59364
+Aug 26 18:38 : client: [11] closed
+Aug 26 18:38 : client: [12] opened from [::1]:59368
+Aug 26 18:39 : client: [12] closed
+Aug 26 18:39 : client: [13] opened from [::1]:59372
+Aug 26 18:40 : client: [13] closed
+Aug 26 18:40 : client: [14] opened from [::1]:59412
+Aug 26 18:40 : client: [14] closed
+Aug 26 18:40 : client: [15] opened from [::1]:59414
+Aug 26 18:41 : client: [15] closed
+Aug 26 18:41 : client: [16] opened from [::1]:59416
+Aug 26 18:41 : client: [16] closed
+Aug 26 18:42 : client: [17] opened from [::1]:59418
+Aug 26 18:43 : client: [17] closed
+Aug 26 18:43 : client: [18] opened from [::1]:59432
+Aug 26 18:43 : client: [18] closed
+Aug 26 18:43 : client: [19] opened from [::1]:59448
+Aug 26 18:44 : client: [19] closed
+Aug 26 18:44 : client: [20] opened from [::1]:59452
+Aug 26 18:45 : client: [20] closed
+Aug 26 18:45 : client: [21] opened from [::1]:59466
+Aug 26 18:46 : client: [21] closed
+Aug 26 18:46 : client: [22] opened from [::1]:59468
+Aug 26 18:47 : client: [22] closed
+Aug 26 18:47 : client: [23] opened from [::1]:59498
+Aug 26 18:48 : client: [23] closed
+Aug 26 18:48 : client: [24] opened from [::1]:59538
+Aug 26 18:49 : client: [24] closed
+Aug 26 18:49 : client: [25] opened from [::1]:59542
+Aug 26 18:49 : client: [25] closed
+Aug 26 18:49 : client: [26] opened from [::1]:59544
+Aug 26 18:50 : client: [26] closed
+Aug 26 18:50 : player: played "Pink Floyd - Wish You Were Here.mp3"
+Aug 26 18:50 : client: [27] opened from [::1]:59546
+Aug 26 18:51 : client: [28] opened from [::1]:59556
+Aug 26 18:51 : client: [28] closed
+Aug 26 18:52 : client: [29] opened from [::1]:59562
+Aug 26 18:52 : client: [29] closed
+Aug 26 18:52 : client: [30] opened from [::1]:59564
+Aug 26 18:53 : player: played "RUDE - Eternal Youth.mp3"
+Aug 26 18:53 : client: [30] closed
+Aug 26 18:53 : client: [31] opened from [::1]:59576
+Aug 26 18:54 : client: [31] closed
+Aug 26 18:54 : client: [32] opened from [::1]:59596
+Aug 26 18:55 : client: [32] closed
+Aug 26 18:55 : client: [33] opened from [::1]:59598
+Aug 26 18:55 : client: [33] closed
+Aug 26 18:55 : client: [34] opened from [::1]:59600
+Aug 26 18:56 : client: [34] closed
+Aug 26 18:56 : client: [35] opened from [::1]:59602
+Aug 26 18:56 : client: [35] closed
+Aug 26 18:58 : player: played "Slow Magic - Waited 4 U (ODESZA Remix).mp3"
+Aug 26 18:59 : client: [36] opened from [::1]:59636
+Aug 26 18:59 : client: [36] closed
+Aug 26 19:01 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 26 19:46 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 26 19:51 : player: played "Beastie Boys - Intergalactic (High Quality).mp3"
+Aug 26 19:54 : player: played "Beastie Boys - Sabotage.mp3"
+Aug 26 19:56 : player: played "Benny Benassi - Satisfaction.mp3"
+Aug 26 20:00 : player: played "Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3"
+Aug 26 20:36 : player: played "ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3"
+Aug 26 20:40 : player: played "Aaron Smith - Dancin (KRONO Remix).mp3"
+Aug 26 20:44 : player: played "alt-J () Breezeblocks.mp3"
+Aug 26 20:48 : player: played "Blackbear - Idfc (Tarro Remix).mp3"
+Aug 26 20:53 : player: played "Childish Gambino - Redbone (Official Audio).mp3"
+Aug 26 20:57 : player: played "Yuna - Lullabies (Adventure Club Remix).mp3"
+Aug 26 21:02 : player: played "Tove Lo - Stay High (Habits Remix) ft. Hippie Sabotage.mp3"
+Aug 26 21:06 : player: played "Vanic X K.Flay - Cant Sleep.mp3"
+Aug 26 21:09 : player: played "swell - im sorry (feat. shiloh).mp3"

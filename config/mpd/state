@@ -1,0 +1,46 @@
+sw_volume: 0
+audio_device_state:1:mpd alsamixer-output
+audio_device_state:1:toggle_visualizer
+state: play
+current: 4
+time: 3.970000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Yuna - Lullabies (Adventure Club Remix).mp3
+1:Tove Lo - Stay High (Habits Remix) ft. Hippie Sabotage.mp3
+2:Vanic X K.Flay - Cant Sleep.mp3
+3:swell - im sorry (feat. shiloh).mp3
+4:alt-J () Breezeblocks.mp3
+5:Beastie Boys - Intergalactic (High Quality).mp3
+6:Bellbottoms.mp3
+7:Benny Benassi - Satisfaction.mp3
+8:Coldplay - Midnight (Kygo Remix).mp3
+9:Duke Dumont - I Got U ft. Jax Jones.mp3
+10:Flume - Never Be Like You feat. Kai.mp3
+11:Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3
+12:Khalid - Location.mp3
+13:LAUV - The Other.mp3
+14:Milky Chance - Stolen Dance (Album Version).mp3
+15:Nujabes - Feather.mp3
+16:PETIT BISCUIT - Sunset Lover.mp3
+17:Pink Floyd - Wish You Were Here.mp3
+18:RUDE - Eternal Youth.mp3
+19:Slow Magic - Waited 4 U (ODESZA Remix).mp3
+20:Beastie Boys - Sabotage.mp3
+21:ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3
+22:Beastie Boys - Intergalactic (High Quality).mp3
+23:Beastie Boys - Sabotage.mp3
+24:Benny Benassi - Satisfaction.mp3
+25:Kavinsky - Nightcall (Drive Original Movie Soundtrack) (Official Audio).mp3
+26:ＳＰＡＣＥ　ＴＲＩＰ　ＩＶ [ Chillwave - Synthwave - Retrowave Mix ].mp3
+27:Aaron Smith - Dancin (KRONO Remix).mp3
+28:alt-J () Breezeblocks.mp3
+29:Blackbear - Idfc (Tarro Remix).mp3
+30:Childish Gambino - Redbone (Official Audio).mp3
+playlist_end
