@@ -12,7 +12,4 @@ I use rxvt-unicode or urxvt. It is my favoirte terminal emulator and is extremel
 ### Ranger
 Ranger is a great terminal file manager and I prefer to use it over any gui file manager. It is super intuitive and easy to use and there are some great features that gui file managers just don't have. As you might have seen in my reddit post I can use ranger with pywal to do some sick things.
 
-### Conclusion
-So why do I use all of these terminal applications and why do I even use i3 in the first place? Well the answer to that is, it is fun! There is just so much stuff you can do and there is a lot more freedom. i3 is also just a great alternative to a DE because of how convienient it is.
-
 ### More: \[[Installing Dotfiles](https://www.youtube.com/watch?v=c5RZWDLqifA)\] \[[Getting Started](https://www.youtube.com/watch?v=__0Dquj7y9g)\] \[[Wallpapers](https://imgur.com/a/sfl08rJ)\]
